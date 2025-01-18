@@ -1,8 +1,8 @@
 export interface Movie {
     id: number;
-    title : String;
-    releaseDate: String;
-    overview : String;
+    title : string;
+    releaseDate: string;
+    overview : string;
     rating : number;
     likes : number;
     poster_path : String;
